@@ -2,6 +2,7 @@
 
 
 ![Alt text](bash_profile.png)
+
 ![Alt text](setup_env.png)
 
 
