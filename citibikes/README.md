@@ -1,0 +1,3 @@
+Just because it is cold outside does not mean that people do not ride their bikes. We wanted to look at trip durations in a winter month and in a summer month, in order to see if there was a statistical significance between the trip durations for the two months. Even though it is cold does that mean that people bike for less time? We asserted in our null hypothesis that their is not difference in the trip durations. 
+
+I worked with Diego Garzon on this project. Both of us contributed equally to the project-we both devised the hypothesis, helped at different times writing the code, and both contributed to the analysis of the test. 
