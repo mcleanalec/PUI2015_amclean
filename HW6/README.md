@@ -1,0 +1,1 @@
+This is HW6. I worked on this homework with Diego Garzon, Max Fenglass, John Grundy, Dan  Quasney, and Neil D'souza gave us advice. 
