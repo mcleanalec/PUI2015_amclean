@@ -1,0 +1,1 @@
+This graph looks at the consumption of water in NYC from 1979 to 2009. As you can see the daily consumption of water has decreased tremendously. I retrieved all of this data from the NYC Open Data website. 
