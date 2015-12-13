@@ -1,0 +1,1 @@
+This is homework number 10. Sometimes I export the csv with the data to a new csv, but each time i do so, i mention it.
