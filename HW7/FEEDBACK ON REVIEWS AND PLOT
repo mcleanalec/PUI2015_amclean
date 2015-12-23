@@ -1,0 +1,59 @@
+your reviews were good
+10/10
+
+NOTES ON YOUR PLOT
+===================
+
+
+very small axis labels
+
+background choice is distracting and reduces the visibility of the line, which however remains visible enough
+
+it is an extremely simple plot, which however shows a very strong and interesging trend.
+
+(what the graph shows is also very intriguing!)
+
+(it was wrongly label HW7 - it is really important to be able to follow instructions.)
+
+
+
+
+
+NOTES ON YOUR PLOT THE PLOTS YOU REVIEWED
+===========================================
+
+
+mf3319
+============
+[!alt text](mf3358.png)
+
+the station id is a categorical value, not a continuous one, so it should not be plotted as a position (and the idea of doing a regression on it is odd and really meaningless)
+
+the regression lines are very thick, which does not add to readability. 
+
+in blind siulations the colors become undistinguishable, particularly the green
+
+
+lc3381
+
+============
+
+y axis extends above the data space
+
+remove the empty space below 5 %
+
+consider log space to cpmress the gaps and allow differences in the countries reporting small percentages to be seen
+
+what is the legend on top? entirely not clear
+
+labels for countries too small
+
+top labels too small
+
+
+
+by671	   
+============
+good plot, good choice of BW and mean/median in read that highlights it. 
+
+consider using a larger unit on the y axis (miles?)
